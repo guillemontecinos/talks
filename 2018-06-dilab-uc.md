@@ -31,9 +31,9 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Sergio Mora-Díaz](http://www.sergiomoradiaz.com/)
 * [Mónica Bate](http://etab.cl/monica-bate/)
 * [Roy Macdonald](http://roymacdonald.github.io/)
-* Christian Oyarzún
-* Cristóbal Valenzuela
-* Paola González
+* [Christian Oyarzún](http://www.error404.cl/)
+* [Cristóbal Valenzuela](https://cvalenzuelab.com/)
+* [Paola Olea](http://www.paoolea.com/)
 * Nicole L'Huillier
 * Sinestesia
 * Delight Lab

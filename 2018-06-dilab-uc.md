@@ -23,18 +23,24 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
 ## Referentes
 ### Chile
+* Yto Aranda
 * Natalia Cabrera
 * Camila Colussi
 * Sergio Mora
 * [Mónica Bate](http://etab.cl/monica-bate/)
 * [Roy Macdonald](http://roymacdonald.github.io/)
 * Christian Oyarzún
+* Cristóbal Valenzuela
 * Paola González
+* Nicole L'Huillier
 * Sinestesia
+* Delight Lab
 * [Brillo](http://brillocolectivo.com/)
 
 ### Mundo
 * Lauren McCarthy
+* Casey Reas
+* Golan Levin
 * Zach Lieberman
 * Dan Shiffman
 * Allison Parrish

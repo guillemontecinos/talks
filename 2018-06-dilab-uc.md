@@ -52,3 +52,5 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Daniel Rozin](http://www.smoothware.com/danny/)
 * [Luke Dubois](http://lukedubois.com/)
 * [Miller Puckette](http://msp.ucsd.edu/)
+* [School for Poetic Computation](http://sfpc.io/)
+* [School of Machines - Berlin](http://schoolofma.org/)

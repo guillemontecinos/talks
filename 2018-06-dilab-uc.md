@@ -17,6 +17,7 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
 ## FLOSS
 * [Processing Foundation](https://processingfoundation.org/)
+* [Processing y FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 * [Processing](https://processing.org/) + [p5.js](https://p5js.org/es/) + [p5.js en Español](https://processingfoundation.press/)
 * [openFrameworks](http://openframeworks.cc/)
 

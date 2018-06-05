@@ -24,10 +24,11 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
 ## Referentes
 ### Chile
-* Yto Aranda
-* Natalia Cabrera
-* Camila Colussi
-* Sergio Mora
+* [Yto Aranda](http://yto.cl/)
+* [Natalia Cabrera](https://www.nataliacabrera.com/)
+* [Camila Colussi](https://www.camilacolussi.com/)
+* [Aarón Montoya-Moraga](http://montoyamoraga.io/)
+* [Sergio Mora-Díaz](http://www.sergiomoradiaz.com/)
 * [Mónica Bate](http://etab.cl/monica-bate/)
 * [Roy Macdonald](http://roymacdonald.github.io/)
 * Christian Oyarzún

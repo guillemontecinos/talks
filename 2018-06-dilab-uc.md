@@ -44,6 +44,7 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Lauren McCarthy](http://lauren-mccarthy.com/)
 * [Casey Reas](http://reas.com/)
 * [Golan Levin](http://www.flong.com/)
+* [Kyle McDonald](http://www.kylemcdonald.net/)
 * [Zach Lieberman](https://www.instagram.com/zach.lieberman/?hl=es-la)
 * [Dan Shiffman](http://shiffman.net/)
 * [Allison Parrish](https://www.decontextualize.com/)

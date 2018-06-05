@@ -2,6 +2,7 @@
 Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
 ## cómo llegamos a esto? [existo en internet](http://guillemontecinos.cl/)
+* @guillermolooped
 * Ingeniería UC
 * Magíster en Cs :O
 * Música + Arte + Historia

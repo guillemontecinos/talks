@@ -35,18 +35,20 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Cristóbal Valenzuela](https://cvalenzuelab.com/)
 * [Paola Olea](http://www.paoolea.com/)
 * Nicole L'Huillier
-* Sinestesia
-* Delight Lab
+* [Sinestesia](http://sinestesia.cc/)
+* [Delight Lab](https://delightlab.com/)
 * [Brillo](http://brillocolectivo.com/)
 
 ### Mundo
-* Lauren McCarthy
-* Casey Reas
-* Golan Levin
-* Zach Lieberman
-* Dan Shiffman
-* Allison Parrish
-* Sam Lavigne
-* Daniel Rozin
-* Luke Dubois
-* Miller Puckette
+* [Lauren McCarthy](http://lauren-mccarthy.com/)
+* [Casey Reas](http://reas.com/)
+* [Golan Levin](http://www.flong.com/)
+* [Zach Lieberman](https://www.instagram.com/zach.lieberman/?hl=es-la)
+* [Dan Shiffman](http://shiffman.net/)
+* [Allison Parrish](https://www.decontextualize.com/)
+* [Sam Lavigne](http://lav.io/)
+* [Gene Kogan](http://genekogan.com/)
+* [Tega Brain](http://tegabrain.com/)
+* [Daniel Rozin](http://www.smoothware.com/danny/)
+* [Luke Dubois](http://lukedubois.com/)
+* [Miller Puckette](http://msp.ucsd.edu/)

@@ -6,8 +6,8 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * Magíster en Cs :O
 * Música + Arte + Historia
 * [SFPC](http://sfpc.io/)
+* NYU ITP
 * Coded
-* [ITP](https://tisch.nyu.edu/itp)
 * Programar + Educar + Crear + Difundir
 
 ## [CODED Escuela](http://codedescuela.cl/)
@@ -16,6 +16,7 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * Tecnología como espacio de resistencia
 
 ## FLOSS
+* [GitHub](https://github.com/)
 * [Processing Foundation](https://processingfoundation.org/)
 * [Processing y FLOSS](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 * [Processing](https://processing.org/) + [p5.js](https://p5js.org/es/) + [p5.js en Español](https://processingfoundation.press/)
@@ -55,3 +56,5 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Fathom](https://fathom.info/)
 * [School for Poetic Computation](http://sfpc.io/)
 * [School of Machines - Berlin](http://schoolofma.org/)
+* [NYU ITP](https://tisch.nyu.edu/itp)
+* [UCLA DMA](http://dma.ucla.edu/)

@@ -1,9 +1,8 @@
 # Hola *Pensadores Visuales*!
 Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
-## Quién soy yo
+## cómo llegamos a esto?
 [existo en internet](http://guillemontecinos.cl/)
-## A qué me dedico?
 ## CODED Escuela
 ## FLOSS
 ## Quiénes están en la misma?

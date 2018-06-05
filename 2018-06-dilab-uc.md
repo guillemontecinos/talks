@@ -2,7 +2,7 @@
 Apuntes para charla en curso Pensamiento Visual, Dilab UC
 
 ## Quién soy yo
-[existo en internet]()
+[existo en internet](http://guillemontecinos.cl/)
 ## A qué me dedico?
 ## CODED Escuela
 ## FLOSS

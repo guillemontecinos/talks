@@ -39,7 +39,7 @@ Apuntes para charla en curso Pensamiento Visual, Dilab UC
 * [Delight Lab](https://delightlab.com/)
 * [Brillo](http://brillocolectivo.com/)
 
-### Mundo
+### Mundo (en realidad Estados Unidos)
 * [Lauren McCarthy](http://lauren-mccarthy.com/)
 * [Casey Reas](http://reas.com/)
 * [Golan Levin](http://www.flong.com/)
